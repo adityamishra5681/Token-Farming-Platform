@@ -15,5 +15,5 @@ At its core, the platform acts as a secure vault for user assets. Users deposit 
 ## Deployed Smart Contract Link: Token Farming Platform
 *(Replace the link below with your actual deployed contract ID or stellar.expert explorer link once deployed to Testnet/Mainnet)*
 
-* **Contract ID:** `[INSERT_CONTRACT_ID_HERE]`
-* **Explorer Link:** [Token Farming Platform on Stellar Expert](https://stellar.expert/explorer/testnet/contract/[INSERT_CONTRACT_ID_HERE])
+* **Contract ID:** `CCFCGOSY2YSLLLQ24R5275TAJV4MVNMBLN6Q562HP27HBO6ZVCKWLIZ5`
+* **Explorer Link:** [Token Farming Platform on Stellar Expert](https://stellar.expert/explorer/testnet/contract/[CCFCGOSY2YSLLLQ24R5275TAJV4MVNMBLN6Q562HP27HBO6ZVCKWLIZ5])
